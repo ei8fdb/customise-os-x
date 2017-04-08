@@ -31,48 +31,54 @@ https://support.apple.com/en-us/HT201573
 https://www.cyberciti.biz/faq/disabling-unnecessary-mac-osx-services/
 
 
-**1. 
+**1.
 https://gist.github.com/mikermcneil/10005651
 https://www.jamf.com/jamf-nation/discussions/12694/suppress-yosemite-app-store-notification-via-command
 
 **2.
 http://osxdaily.com/2015/05/04/disable-gatekeeper-command-line-mac-osx/
 
-**3. 
+**3.
 https://github.com/drduh/macOS-Security-and-Privacy-Guide
 http://apple.stackexchange.com/questions/222859/icloud-drive-bird-service-always-running
 
-**4. 
+**4.
 http://www.dgkapps.com/blog/osx-tips/osx-tips-turn-off-disable-apple-push-notifications-from-the-command-line/
 http://apple.stackexchange.com/questions/92214/how-to-disable-apple-push-notification-service-apsd-on-os-x-10-8
 
-**5. 
+**5.
 hardening link
 
-**6. 
+**6.
 https://superuser.com/questions/920116/disable-auto-launching-of-photos-application-on-mac-osx-yosemite-el-capitan
 
-**8. 
+**8.
 https://discussions.apple.com/thread/5969257?tstart=0
 
-**10. 
+**10.
 
 **11.
 https://forums.macrumors.com/threads/question-about-activity-monitor-com-apple-geod-not-responding.1811829/
 
-**12. 
+**12.
 https://discussions.apple.com/thread/7025815?start=0&tstart=0
 
-**13. 
+**13.
 http://osxdaily.com/2016/12/12/show-user-library-folder-macos-sierra/
 
 **14. disable imagent
 http://www.dgkapps.com/blog/osx-tips/osx-tips-turn-off-disable-imagent-from-the-command-line/
 
 
-**15. 
+**15.
 http://www.dgkapps.com/blog/osx-tips/osx-tips-turn-off-disable-bonjour-from-the-command-line/
 
 **16.
 How to Disable System Integrity Protection in macOS Sierra
 https://www.igeeksblog.com/how-to-disable-system-integrity-protection-on-mac/
+
+**17.
+http://apple.stackexchange.com/questions/211062/repeated-crashes-of-suggestd
+
+**18.
+https://simon.heimlicher.com/articles/2011/03/17/cisco-vpn-10.6.0-3
